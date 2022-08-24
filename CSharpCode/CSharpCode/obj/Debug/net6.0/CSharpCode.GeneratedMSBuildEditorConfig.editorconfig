@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CSharpCode
+build_property.ProjectDir = C:\Users\Etg1\source\repos\Batch1-2022\C-_Assignment_Chaitra\CSharp_Assignment\CSharp_Assignment\CSharpAssignment\CSharpAssignment\CSharpCode\CSharpCode\
